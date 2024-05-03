@@ -9,47 +9,42 @@ This repository houses MATLAB code for a GUI-based image processing toolbox. Whe
 ## Features
 
 ### Image Enhancement:
-- **Upsampling**
-- **Subsampling**
-- **Smoothing (Average, Standard)**
-- **Sharpening (Diagonal Laplacian, Robert Horizontal, Robert Vertical, Sobel Horizontal, Sobel Vertical)**
-- **Gray Slicing (AP#1, AP#2)**
-- **Negative Transformation**
-- **Log Transformation**
-- **Inverse Log Transformation**
-- **Power Law Transformation**
-- **Contrast Stretching**
-- **Thresholding (0,1)**
-- **Bit Plane Slicing**
+- <span style="color:blue">**Upsampling**</span>
+- <span style="color:blue">**Subsampling**</span>
+- <span style="color:blue">**Smoothing (Average, Standard)**</span>
+- <span style="color:blue">**Sharpening (Diagonal Laplacian, Robert Horizontal, Robert Vertical, Sobel Horizontal, Sobel Vertical)**</span>
+- <span style="color:blue">**Gray Slicing (AP#1, AP#2)**</span>
+- <span style="color:blue">**Negative Transformation**</span>
+- <span style="color:blue">**Log Transformation**</span>
+- <span style="color:blue">**Inverse Log Transformation**</span>
+- <span style="color:blue">**Power Law Transformation**</span>
+- <span style="color:blue">**Contrast Stretching**</span>
+- <span style="color:blue">**Thresholding (0,1)**</span>
+- <span style="color:blue">**Bit Plane Slicing**</span>
 
 ### Image Arithmetic:
-- **Addition**
-- **Subtraction**
-- **Image Subtraction**
-- **Multiplication**
-- **Division**
-- **Logical AND**
-- **Logical OR**
+- <span style="color:blue">**Addition**</span>
+- <span style="color:blue">**Subtraction**</span>
+- <span style="color:blue">**Image Subtraction**</span>
+- <span style="color:blue">**Multiplication**</span>
+- <span style="color:blue">**Division**</span>
+- <span style="color:blue">**Logical AND**</span>
+- <span style="color:blue">**Logical OR**</span>
 
 ### Image Analysis:
-- **Histogram**
-- **Histogram Equalization**
+- <span style="color:blue">**Histogram**</span>
+- <span style="color:blue">**Histogram Equalization**</span>
 
 ### Filters:
-- **Smoothing (Average Weight, Median)**
-- **Sharpening (Laplacian, Composite Laplacian, Robert First Derivative, Sobel First Derivative)**
-- **Low Pass Filter (Ideal, Butterworth, Gaussian)**
-- **High Pass Filter (Ideal, Butterworth, Gaussian)**
+- <span style="color:blue">**Smoothing (Average Weight, Median)**</span>
+- <span style="color:blue">**Sharpening (Laplacian, Composite Laplacian, Robert First Derivative, Sobel First Derivative)**</span>
+- <span style="color:blue">**Low Pass Filter (Ideal, Butterworth, Gaussian)**</span>
+- <span style="color:blue">**High Pass Filter (Ideal, Butterworth, Gaussian)**</span>
 
 ### Other:
-- **Grey Level Resolution**
-- **Smoothing (Modified)**
+- <span style="color:blue">**Grey Level Resolution**</span>
+- <span style="color:blue">**Smoothing (Modified)**</span>
 
-## Usage
-
-1. Clone the repository:
-
-git clone https://github.com/yourusername/matlab-image-processing-gui.git
 ## Usage
 
 1. Open MATLAB and navigate to the cloned directory.
